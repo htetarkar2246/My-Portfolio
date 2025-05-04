@@ -27,7 +27,7 @@ const AboutMe = () => {
         {/* Texts */}
         <div className="text-left mt-6 leading-5 lg:mt-0 lg:w-3/4 px-4 md:px-10">
           <p className="text-foreground2 font-medium text-lg sm:text-xl text-justify">
-            I'm a passionate Software Engineering student with hands-on
+            I&apos;m a passionate Software Engineering student with hands-on
             experience in web development, Python, and problem-solving.
             Alongside my studies, I actively work as a freelance developer and
             explore the field of Artificial Intelligence through collaborative
