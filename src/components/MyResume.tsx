@@ -7,7 +7,7 @@ const MyResume = () => {
   return (
     <div className="text-center items-center text-foreground w-40 h-auto py-2 bg-foreground2 rounded hover:bg-primary active:bg-foreground2">
       <Link
-        href="https://drive.google.com/file/d/1KNUX3Tla9L9YGhSX-R-mRi1xKrr8m_mV/view?usp=sharing"
+        href="https://drive.google.com/drive/folders/1lGFiGskWCywDQoVtE8kKW2nI-D27lteF?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
       >
